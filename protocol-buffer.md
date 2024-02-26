@@ -86,7 +86,7 @@ Protobuffers offer a powerful and efficient way to manage structured data across
 
 ## Diagrams:
 
-![](protocol-buffer-01.png)
+![](/images/protocol-buffer-01.png)
 
 ## Links:
 
@@ -106,7 +106,7 @@ message Person {
 
 When we encode the data above using this schema, it uses 33 bytes, as follows:
 
-![](protocol-buffer-02.png)
+![](/images/protocol-buffer-02.png)
 
 Look exactly at how the binary representation is structured, byte by byte.
 
